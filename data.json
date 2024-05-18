@@ -625,7 +625,7 @@
         "product_images": [
           "https://placehold.co/400x200/BD33FF/FFF/?text=Product/png",
           "https://placehold.co/400x200/33FFBD/FFF/?text=Product/png",
-          "./img.jpg"
+          "https://placehold.co/400x200/FFBD33/FFF/?text=Product/png"
         ],
         "product_stock": 50,
         "ratings": 4.8,
