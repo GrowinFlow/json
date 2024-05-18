@@ -6,11 +6,11 @@
       "current_price": 999.99,
       "discount_price": 899.99,
       "discount_percentage": 10,
-      "product_feature_img": "https://placehold.co/600x400/FF5733/FFF/?text=Product",
+      "product_feature_img": "https://placehold.co/400x200/FF5733/FFF/?text=Product",
       "product_images": [
-        "https://placehold.co/600x400/FF5733/FFF/?text=Product",
-        "https://placehold.co/600x400/33FF57/FFF/?text=Product",
-        "https://placehold.co/600x400/5733FF/FFF/?text=Product"
+        "https://placehold.co/400x200/FF5733/FFF/?text=Product",
+        "https://placehold.co/400x200/33FF57/FFF/?text=Product",
+        "https://placehold.co/400x200/5733FF/FFF/?text=Product"
       ],
       "product_stock": 150,
       "ratings": 4.8,
@@ -28,11 +28,11 @@
       "current_price": 1299.99,
       "discount_price": 1199.99,
       "discount_percentage": 8,
-      "product_feature_img": "https://placehold.co/600x400/FFBD33/FFF/?text=Product",
+      "product_feature_img": "https://placehold.co/400x200/FFBD33/FFF/?text=Product",
       "product_images": [
-        "https://placehold.co/600x400/FFBD33/FFF/?text=Product",
-        "https://placehold.co/600x400/33FFBD/FFF/?text=Product",
-        "https://placehold.co/600x400/BD33FF/FFF/?text=Product"
+        "https://placehold.co/400x200/FFBD33/FFF/?text=Product",
+        "https://placehold.co/400x200/33FFBD/FFF/?text=Product",
+        "https://placehold.co/400x200/BD33FF/FFF/?text=Product"
       ],
       "product_stock": 75,
       "ratings": 4.7,
@@ -50,11 +50,11 @@
       "current_price": 199.99,
       "discount_price": 149.99,
       "discount_percentage": 25,
-      "product_feature_img": "https://placehold.co/600x400/FF33A1/FFF/?text=Product",
+      "product_feature_img": "https://placehold.co/400x200/FF33A1/FFF/?text=Product",
       "product_images": [
-        "https://placehold.co/600x400/FF33A1/FFF/?text=Product",
-        "https://placehold.co/600x400/A1FF33/FFF/?text=Product",
-        "https://placehold.co/600x400/33A1FF/FFF/?text=Product"
+        "https://placehold.co/400x200/FF33A1/FFF/?text=Product",
+        "https://placehold.co/400x200/A1FF33/FFF/?text=Product",
+        "https://placehold.co/400x200/33A1FF/FFF/?text=Product"
       ],
       "product_stock": 200,
       "ratings": 4.6,
@@ -71,11 +71,11 @@
       "current_price": 1599.99,
       "discount_price": 1499.99,
       "discount_percentage": 6,
-      "product_feature_img": "https://placehold.co/600x400/FF3380/FFF/?text=Product",
+      "product_feature_img": "https://placehold.co/400x200/FF3380/FFF/?text=Product",
       "product_images": [
-        "https://placehold.co/600x400/FF3380/FFF/?text=Product",
-        "https://placehold.co/600x400/3380FF/FFF/?text=Product",
-        "https://placehold.co/600x400/80FF33/FFF/?text=Product"
+        "https://placehold.co/400x200/FF3380/FFF/?text=Product",
+        "https://placehold.co/400x200/3380FF/FFF/?text=Product",
+        "https://placehold.co/400x200/80FF33/FFF/?text=Product"
       ],
       "product_stock": 80,
       "ratings": 4.7,
@@ -92,11 +92,11 @@
       "current_price": 99.99,
       "discount_price": 79.99,
       "discount_percentage": 20,
-      "product_feature_img": "https://placehold.co/600x400/33FFBD/FFF/?text=Product",
+      "product_feature_img": "https://placehold.co/400x200/33FFBD/FFF/?text=Product",
       "product_images": [
-        "https://placehold.co/600x400/33FFBD/FFF/?text=Product",
-        "https://placehold.co/600x400/BD33FF/FFF/?text=Product",
-        "https://placehold.co/600x400/FFBD33/FFF/?text=Product"
+        "https://placehold.co/400x200/33FFBD/FFF/?text=Product",
+        "https://placehold.co/400x200/BD33FF/FFF/?text=Product",
+        "https://placehold.co/400x200/FFBD33/FFF/?text=Product"
       ],
       "product_stock": 300,
       "ratings": 4.5,
@@ -114,11 +114,11 @@
       "current_price": 59.99,
       "discount_price": 49.99,
       "discount_percentage": 17,
-      "product_feature_img": "https://placehold.co/600x400/BD33FF/FFF/?text=Product",
+      "product_feature_img": "https://placehold.co/400x200/BD33FF/FFF/?text=Product",
       "product_images": [
-        "https://placehold.co/600x400/BD33FF/FFF/?text=Product",
-        "https://placehold.co/600x400/33FFBD/FFF/?text=Product",
-        "https://placehold.co/600x400/FFBD33/FFF/?text=Product"
+        "https://placehold.co/400x200/BD33FF/FFF/?text=Product",
+        "https://placehold.co/400x200/33FFBD/FFF/?text=Product",
+        "https://placehold.co/400x200/FFBD33/FFF/?text=Product"
       ],
       "product_stock": 250,
       "ratings": 4.4,
@@ -135,11 +135,11 @@
       "current_price": 299.99,
       "discount_price": 249.99,
       "discount_percentage": 17,
-      "product_feature_img": "https://placehold.co/600x400/FF33A1/FFF/?text=Product",
+      "product_feature_img": "https://placehold.co/400x200/FF33A1/FFF/?text=Product",
       "product_images": [
-        "https://placehold.co/600x400/FF33A1/FFF/?text=Product",
-        "https://placehold.co/600x400/A1FF33/FFF/?text=Product",
-        "https://placehold.co/600x400/33A1FF/FFF/?text=Product"
+        "https://placehold.co/400x200/FF33A1/FFF/?text=Product",
+        "https://placehold.co/400x200/A1FF33/FFF/?text=Product",
+        "https://placehold.co/400x200/33A1FF/FFF/?text=Product"
       ],
       "product_stock": 120,
       "ratings": 4.6,
@@ -157,11 +157,11 @@
       "current_price": 899.99,
       "discount_price": 849.99,
       "discount_percentage": 6,
-      "product_feature_img": "https://placehold.co/600x400/FF3380/FFF/?text=Product",
+      "product_feature_img": "https://placehold.co/400x200/FF3380/FFF/?text=Product",
       "product_images": [
-        "https://placehold.co/600x400/FF3380/FFF/?text=Product",
-        "https://placehold.co/600x400/3380FF/FFF/?text=Product",
-        "https://placehold.co/600x400/80FF33/FFF/?text=Product"
+        "https://placehold.co/400x200/FF3380/FFF/?text=Product",
+        "https://placehold.co/400x200/3380FF/FFF/?text=Product",
+        "https://placehold.co/400x200/80FF33/FFF/?text=Product"
       ],
       "product_stock": 60,
       "ratings": 4.7,
@@ -178,11 +178,11 @@
       "current_price": 149.99,
       "discount_price": 129.99,
       "discount_percentage": 13,
-      "product_feature_img": "https://placehold.co/600x400/33A1FF/FFF/?text=Product",
+      "product_feature_img": "https://placehold.co/400x200/33A1FF/FFF/?text=Product",
       "product_images": [
-        "https://placehold.co/600x400/33A1FF/FFF/?text=Product",
-        "https://placehold.co/600x400/A1FF33/FFF/?text=Product",
-        "https://placehold.co/600x400/FF33A1/FFF/?text=Product"
+        "https://placehold.co/400x200/33A1FF/FFF/?text=Product",
+        "https://placehold.co/400x200/A1FF33/FFF/?text=Product",
+        "https://placehold.co/400x200/FF33A1/FFF/?text=Product"
       ],
       "product_stock": 180,
       "ratings": 4.4,
@@ -199,11 +199,11 @@
         "current_price": 79.99,
         "discount_price": 69.99,
         "discount_percentage": 12,
-        "product_feature_img": "https://placehold.co/600x400/FFA533/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/FFA533/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/FFA533/FFF/?text=Product",
-          "https://placehold.co/600x400/33FFA5/FFF/?text=Product",
-          "https://placehold.co/600x400/A533FF/FFF/?text=Product"
+          "https://placehold.co/400x200/FFA533/FFF/?text=Product",
+          "https://placehold.co/400x200/33FFA5/FFF/?text=Product",
+          "https://placehold.co/400x200/A533FF/FFF/?text=Product"
         ],
         "product_stock": 220,
         "ratings": 4.5,
@@ -220,11 +220,11 @@
         "current_price": 199.99,
         "discount_price": 179.99,
         "discount_percentage": 10,
-        "product_feature_img": "https://placehold.co/600x400/33FFA5/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/33FFA5/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/33FFA5/FFF/?text=Product",
-          "https://placehold.co/600x400/A533FF/FFF/?text=Product",
-          "https://placehold.co/600x400/FFA533/FFF/?text=Product"
+          "https://placehold.co/400x200/33FFA5/FFF/?text=Product",
+          "https://placehold.co/400x200/A533FF/FFF/?text=Product",
+          "https://placehold.co/400x200/FFA533/FFF/?text=Product"
         ],
         "product_stock": 140,
         "ratings": 4.6,
@@ -241,11 +241,11 @@
         "current_price": 129.99,
         "discount_price": 99.99,
         "discount_percentage": 23,
-        "product_feature_img": "https://placehold.co/600x400/A533FF/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/A533FF/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/A533FF/FFF/?text=Product",
-          "https://placehold.co/600x400/33FFA5/FFF/?text=Product",
-          "https://placehold.co/600x400/FFA533/FFF/?text=Product"
+          "https://placehold.co/400x200/A533FF/FFF/?text=Product",
+          "https://placehold.co/400x200/33FFA5/FFF/?text=Product",
+          "https://placehold.co/400x200/FFA533/FFF/?text=Product"
         ],
         "product_stock": 100,
         "ratings": 4.4,
@@ -262,11 +262,11 @@
         "current_price": 399.99,
         "discount_price": 349.99,
         "discount_percentage": 12,
-        "product_feature_img": "https://placehold.co/600x400/FFA533/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/FFA533/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/FFA533/FFF/?text=Product",
-          "https://placehold.co/600x400/33FFA5/FFF/?text=Product",
-          "https://placehold.co/600x400/A533FF/FFF/?text=Product"
+          "https://placehold.co/400x200/FFA533/FFF/?text=Product",
+          "https://placehold.co/400x200/33FFA5/FFF/?text=Product",
+          "https://placehold.co/400x200/A533FF/FFF/?text=Product"
         ],
         "product_stock": 90,
         "ratings": 4.7,
@@ -283,11 +283,11 @@
         "current_price": 249.99,
         "discount_price": 219.99,
         "discount_percentage": 12,
-        "product_feature_img": "https://placehold.co/600x400/33FFA5/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/33FFA5/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/33FFA5/FFF/?text=Product",
-          "https://placehold.co/600x400/A533FF/FFF/?text=Product",
-          "https://placehold.co/600x400/FFA533/FFF/?text=Product"
+          "https://placehold.co/400x200/33FFA5/FFF/?text=Product",
+          "https://placehold.co/400x200/A533FF/FFF/?text=Product",
+          "https://placehold.co/400x200/FFA533/FFF/?text=Product"
         ],
         "product_stock": 110,
         "ratings": 4.5,
@@ -305,11 +305,11 @@
         "current_price": 29.99,
         "discount_price": 24.99,
         "discount_percentage": 17,
-        "product_feature_img": "https://placehold.co/600x400/A533FF/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/A533FF/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/A533FF/FFF/?text=Product",
-          "https://placehold.co/600x400/33FFA5/FFF/?text=Product",
-          "https://placehold.co/600x400/FFA533/FFF/?text=Product"
+          "https://placehold.co/400x200/A533FF/FFF/?text=Product",
+          "https://placehold.co/400x200/33FFA5/FFF/?text=Product",
+          "https://placehold.co/400x200/FFA533/FFF/?text=Product"
         ],
         "product_stock": 500,
         "ratings": 4.6,
@@ -326,11 +326,11 @@
         "current_price": 199.99,
         "discount_price": 179.99,
         "discount_percentage": 10,
-        "product_feature_img": "https://placehold.co/600x400/FFA533/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/FFA533/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/FFA533/FFF/?text=Product",
-          "https://placehold.co/600x400/33FFA5/FFF/?text=Product",
-          "https://placehold.co/600x400/A533FF/FFF/?text=Product"
+          "https://placehold.co/400x200/FFA533/FFF/?text=Product",
+          "https://placehold.co/400x200/33FFA5/FFF/?text=Product",
+          "https://placehold.co/400x200/A533FF/FFF/?text=Product"
         ],
         "product_stock": 150,
         "ratings": 4.5,
@@ -347,11 +347,11 @@
         "current_price": 199.99,
         "discount_price": 179.99,
         "discount_percentage": 10,
-        "product_feature_img": "https://placehold.co/600x400/33FFA5/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/33FFA5/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/33FFA5/FFF/?text=Product",
-          "https://placehold.co/600x400/A533FF/FFF/?text=Product",
-          "https://placehold.co/600x400/FFA533/FFF/?text=Product"
+          "https://placehold.co/400x200/33FFA5/FFF/?text=Product",
+          "https://placehold.co/400x200/A533FF/FFF/?text=Product",
+          "https://placehold.co/400x200/FFA533/FFF/?text=Product"
         ],
         "product_stock": 130,
         "ratings": 4.6,
@@ -368,11 +368,11 @@
         "current_price": 49.99,
         "discount_price": 39.99,
         "discount_percentage": 20,
-        "product_feature_img": "https://placehold.co/600x400/A533FF/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/A533FF/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/A533FF/FFF/?text=Product",
-          "https://placehold.co/600x400/33FFA5/FFF/?text=Product",
-          "https://placehold.co/600x400/FFA533/FFF/?text=Product"
+          "https://placehold.co/400x200/A533FF/FFF/?text=Product",
+          "https://placehold.co/400x200/33FFA5/FFF/?text=Product",
+          "https://placehold.co/400x200/FFA533/FFF/?text=Product"
         ],
         "product_stock": 200,
         "ratings": 4.5,
@@ -390,11 +390,11 @@
         "current_price": 29.99,
         "discount_price": 24.99,
         "discount_percentage": 17,
-        "product_feature_img": "https://placehold.co/600x400/FF5733/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/FF5733/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/FF5733/FFF/?text=Product",
-          "https://placehold.co/600x400/33FF57/FFF/?text=Product",
-          "https://placehold.co/600x400/5733FF/FFF/?text=Product"
+          "https://placehold.co/400x200/FF5733/FFF/?text=Product",
+          "https://placehold.co/400x200/33FF57/FFF/?text=Product",
+          "https://placehold.co/400x200/5733FF/FFF/?text=Product"
         ],
         "product_stock": 400,
         "ratings": 4.4,
@@ -411,11 +411,11 @@
         "current_price": 89.99,
         "discount_price": 79.99,
         "discount_percentage": 11,
-        "product_feature_img": "https://placehold.co/600x400/33FF57/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/33FF57/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/33FF57/FFF/?text=Product",
-          "https://placehold.co/600x400/5733FF/FFF/?text=Product",
-          "https://placehold.co/600x400/FF5733/FFF/?text=Product"
+          "https://placehold.co/400x200/33FF57/FFF/?text=Product",
+          "https://placehold.co/400x200/5733FF/FFF/?text=Product",
+          "https://placehold.co/400x200/FF5733/FFF/?text=Product"
         ],
         "product_stock": 150,
         "ratings": 4.5,
@@ -433,11 +433,11 @@
         "current_price": 299.99,
         "discount_price": 269.99,
         "discount_percentage": 10,
-        "product_feature_img": "https://placehold.co/600x400/5733FF/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/5733FF/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/5733FF/FFF/?text=Product",
-          "https://placehold.co/600x400/33FF57/FFF/?text=Product",
-          "https://placehold.co/600x400/FF5733/FFF/?text=Product"
+          "https://placehold.co/400x200/5733FF/FFF/?text=Product",
+          "https://placehold.co/400x200/33FF57/FFF/?text=Product",
+          "https://placehold.co/400x200/FF5733/FFF/?text=Product"
         ],
         "product_stock": 80,
         "ratings": 4.7,
@@ -454,11 +454,11 @@
         "current_price": 49.99,
         "discount_price": 39.99,
         "discount_percentage": 20,
-        "product_feature_img": "https://placehold.co/600x400/FF5733/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/FF5733/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/FF5733/FFF/?text=Product",
-          "https://placehold.co/600x400/33FF57/FFF/?text=Product",
-          "https://placehold.co/600x400/5733FF/FFF/?text=Product"
+          "https://placehold.co/400x200/FF5733/FFF/?text=Product",
+          "https://placehold.co/400x200/33FF57/FFF/?text=Product",
+          "https://placehold.co/400x200/5733FF/FFF/?text=Product"
         ],
         "product_stock": 250,
         "ratings": 4.6,
@@ -475,11 +475,11 @@
         "current_price": 299.99,
         "discount_price": 249.99,
         "discount_percentage": 17,
-        "product_feature_img": "https://placehold.co/600x400/33FFBD/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/33FFBD/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/33FFBD/FFF/?text=Product",
-          "https://placehold.co/600x400/BD33FF/FFF/?text=Product",
-          "https://placehold.co/600x400/FFBD33/FFF/?text=Product"
+          "https://placehold.co/400x200/33FFBD/FFF/?text=Product",
+          "https://placehold.co/400x200/BD33FF/FFF/?text=Product",
+          "https://placehold.co/400x200/FFBD33/FFF/?text=Product"
         ],
         "product_stock": 120,
         "ratings": 4.8,
@@ -496,11 +496,11 @@
         "current_price": 199.99,
         "discount_price": 179.99,
         "discount_percentage": 10,
-        "product_feature_img": "https://placehold.co/600x400/BD33FF/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/BD33FF/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/BD33FF/FFF/?text=Product",
-          "https://placehold.co/600x400/33FFBD/FFF/?text=Product",
-          "https://placehold.co/600x400/FFBD33/FFF/?text=Product"
+          "https://placehold.co/400x200/BD33FF/FFF/?text=Product",
+          "https://placehold.co/400x200/33FFBD/FFF/?text=Product",
+          "https://placehold.co/400x200/FFBD33/FFF/?text=Product"
         ],
         "product_stock": 180,
         "ratings": 4.6,
@@ -517,11 +517,11 @@
         "current_price": 599.99,
         "discount_price": 549.99,
         "discount_percentage": 8,
-        "product_feature_img": "https://placehold.co/600x400/FF33A1/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/FF33A1/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/FF33A1/FFF/?text=Product",
-          "https://placehold.co/600x400/A1FF33/FFF/?text=Product",
-          "https://placehold.co/600x400/33A1FF/FFF/?text=Product"
+          "https://placehold.co/400x200/FF33A1/FFF/?text=Product",
+          "https://placehold.co/400x200/A1FF33/FFF/?text=Product",
+          "https://placehold.co/400x200/33A1FF/FFF/?text=Product"
         ],
         "product_stock": 60,
         "ratings": 4.7,
@@ -538,11 +538,11 @@
         "current_price": 299.99,
         "discount_price": 279.99,
         "discount_percentage": 7,
-        "product_feature_img": "https://placehold.co/600x400/FF3380/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/FF3380/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/FF3380/FFF/?text=Product",
-          "https://placehold.co/600x400/3380FF/FFF/?text=Product",
-          "https://placehold.co/600x400/80FF33/FFF/?text=Product"
+          "https://placehold.co/400x200/FF3380/FFF/?text=Product",
+          "https://placehold.co/400x200/3380FF/FFF/?text=Product",
+          "https://placehold.co/400x200/80FF33/FFF/?text=Product"
         ],
         "product_stock": 90,
         "ratings": 4.5,
@@ -559,11 +559,11 @@
         "current_price": 499.99,
         "discount_price": 449.99,
         "discount_percentage": 10,
-        "product_feature_img": "https://placehold.co/600x400/33A1FF/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/33A1FF/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/33A1FF/FFF/?text=Product",
-          "https://placehold.co/600x400/A1FF33/FFF/?text=Product",
-          "https://placehold.co/600x400/FF33A1/FFF/?text=Product"
+          "https://placehold.co/400x200/33A1FF/FFF/?text=Product",
+          "https://placehold.co/400x200/A1FF33/FFF/?text=Product",
+          "https://placehold.co/400x200/FF33A1/FFF/?text=Product"
         ],
         "product_stock": 70,
         "ratings": 4.8,
@@ -579,11 +579,11 @@
         "current_price": 149.99,
         "discount_price": 139.99,
         "discount_percentage": 7,
-        "product_feature_img": "https://placehold.co/600x400/FFBD33/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/FFBD33/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/FFBD33/FFF/?text=Product",
-          "https://placehold.co/600x400/33FFBD/FFF/?text=Product",
-          "https://placehold.co/600x400/BD33FF/FFF/?text=Product"
+          "https://placehold.co/400x200/FFBD33/FFF/?text=Product",
+          "https://placehold.co/400x200/33FFBD/FFF/?text=Product",
+          "https://placehold.co/400x200/BD33FF/FFF/?text=Product"
         ],
         "product_stock": 120,
         "ratings": 4.7,
@@ -600,11 +600,11 @@
         "current_price": 39.99,
         "discount_price": 34.99,
         "discount_percentage": 12,
-        "product_feature_img": "https://placehold.co/600x400/33FFBD/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/33FFBD/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/33FFBD/FFF/?text=Product",
-          "https://placehold.co/600x400/BD33FF/FFF/?text=Product",
-          "https://placehold.co/600x400/FFBD33/FFF/?text=Product"
+          "https://placehold.co/400x200/33FFBD/FFF/?text=Product",
+          "https://placehold.co/400x200/BD33FF/FFF/?text=Product",
+          "https://placehold.co/400x200/FFBD33/FFF/?text=Product"
         ],
         "product_stock": 200,
         "ratings": 4.6,
@@ -621,11 +621,11 @@
         "current_price": 1999.99,
         "discount_price": 1899.99,
         "discount_percentage": 5,
-        "product_feature_img": "https://placehold.co/600x400/BD33FF/FFF/?text=Product",
+        "product_feature_img": "https://placehold.co/400x200/BD33FF/FFF/?text=Product",
         "product_images": [
-          "https://placehold.co/600x400/BD33FF/FFF/?text=Product",
-          "https://placehold.co/600x400/33FFBD/FFF/?text=Product",
-          "https://placehold.co/600x400/FFBD33/FFF/?text=Product"
+          "https://placehold.co/400x200/BD33FF/FFF/?text=Product",
+          "https://placehold.co/400x200/33FFBD/FFF/?text=Product",
+          "https://placehold.co/400x200/FFBD33/FFF/?text=Product"
         ],
         "product_stock": 50,
         "ratings": 4.8,
